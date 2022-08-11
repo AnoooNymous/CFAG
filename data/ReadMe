@@ -1,0 +1,3 @@
+train.txt and test.txt in format of [user, group_1,..., group_m]
+groupItemTrain.txt in format of [user, item_1,..., item_n]
+userItemTrain.txt in format of [group, item_1,..., item_n]
